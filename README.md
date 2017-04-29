@@ -1,0 +1,2 @@
+# MagicShopper
+Shopping made comfortable
